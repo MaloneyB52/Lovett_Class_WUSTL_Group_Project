@@ -1,1 +1,1 @@
-# Lovett_Class_WUSTL_Group_Project
+# WUSTL_Group_Project
