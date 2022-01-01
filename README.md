@@ -22,4 +22,9 @@ While the debate between law enforcement size and resourcing is certainly alive 
 
 Description of their source data: TBD
 
-Questions they hope to answer with the data: TBD
+Questions they hope to answer with the data: 
+
+	1) What are the top 5 safest states in the United States regarding specific crimes?
+	2) What regions of the United States are more likely to expereince specific crimes?
+	3) Is there a correlation between population and crime?
+	4) Is there a correlation between number of police agencies and crime? 
