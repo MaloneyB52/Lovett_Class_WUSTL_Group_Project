@@ -30,3 +30,18 @@ Questions they hope to answer with the data:
 	4) Is there a correlation between number of police agencies and crime? 
 	5) What is the percentage breakdown of offenders regarding gender?
 	6) What is the percentage breakdown of victims regarding gender?
+
+
+Communication Protocols
+
+Our Team will utilize the collaborative nature of commonly used programs throughout the business world, most notably Slack and GitHub. Git Hub will be used exclusively for building and sharing coding utilizing its branch methodology. This will allow maximum collaboration and collective editing, review, and assistance from the team writ large.
+
+Inter-Team communication will be achieved mainly through the application Slack. This allows the team to compartmentalize the project and separate communications channels from outside interference, or minimize confusion. In addition, Slack’s mobile capacity allows near instant communication within the team regardless of their current status, while further allowing related messaging to be shared within the team and only within the team. 
+
+Face to Face collaboration will be achieved via Zoom during the standard class meeting times. This is critical. As the team is used to blocking off this time frame, this allows unfettered communications without disruption of family, work, and to maintain routine. 
+
+Industry standard communications protocols remain in effect. To wit:
+
+Zoom meetings will be attended with video on, and camera operating
+When not speaking, microphone will be muted
+Slack channels will be uncluttered and used only for official communications related to the project to ensure confusion is minimized. 
