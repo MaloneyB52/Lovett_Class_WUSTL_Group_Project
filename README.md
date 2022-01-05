@@ -28,3 +28,5 @@ Questions they hope to answer with the data:
 	2) What regions of the United States are more likely to experience specific crimes?
 	3) Is there a correlation between population and crime?
 	4) Is there a correlation between number of police agencies and crime? 
+	5) What is the percentage breakdown of offenders regarding gender?
+	6) What is the percentage breakdown of victims regarding gender?
