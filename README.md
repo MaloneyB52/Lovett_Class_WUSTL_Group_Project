@@ -5,7 +5,7 @@ It is not uncommon for municipalities, counties, or any other form of government
 Assumptions: 	
 			
       1) Political entities compared are symmetrical and similar in population, region, demographics …i.e. apples to apples comparison
-      2) Comparisons are contemporaneous…It is assumed communities are compared within the same timeframe i.e. no comparisons to 1870s Wild West to modern 
+      2) Comparisons are contemporaneous…it is assumed communities are compared within the same timeframe i.e. no comparisons to 1870s Wild West to modern 
       day urban areas
       3) Crime categories and locations compared are analogous….not comparing cattle rustling between Kansas and New York City…therefore the US top five 
       common felonies are compared
@@ -25,6 +25,6 @@ Description of their source data: TBD
 Questions they hope to answer with the data: 
 
 	1) What are the top 5 safest states in the United States regarding specific crimes?
-	2) What regions of the United States are more likely to expereince specific crimes?
+	2) What regions of the United States are more likely to experience specific crimes?
 	3) Is there a correlation between population and crime?
 	4) Is there a correlation between number of police agencies and crime? 
