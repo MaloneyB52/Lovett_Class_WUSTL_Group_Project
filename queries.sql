@@ -1,10 +1,25 @@
-select *
+select
+off_cat.state
+,off_cat.offense_category
+,cat_type.offense_type
+,off_cat.volume
 
-from property_offenses_state_20 prop_off
-Inner Join persons_offenses_state_20 per_off on per_off.state = prop_off.state
- AND per_off.state = 'Illinois'
-Inner Join society_offenses_state_20 soc_off on soc_off.state = per_off.state
- AND soc_off.state = 'Illinois'
+From offense_cat_state_2020 off_cat
+inner join offense_cat_type_2020 cat_type on off_cat.offense_category = cat_type.offense_category
 
-where
-prop_off.state = 'Illinois';
+where 
+off_cat.offense_category = 'Burglary/Breaking & Entering';
+
+
+
+select
+off_cat.state
+,off_cat.offense_category
+,cat_type.offense_type
+,off_cat.volume
+
+From offense_cat_state_2020 off_cat
+inner join offense_cat_type_2020 cat_type on off_cat.offense_category = cat_type.offense_category
+
+where 
+off_cat.volume > '20000';
