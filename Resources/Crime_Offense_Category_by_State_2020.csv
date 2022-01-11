@@ -1,0 +1,1082 @@
+State,Offense_Category,Volume
+Alabama,Assault,4214
+Alabama,Homicide,24
+Alabama,Human Trafficking,0
+Alabama,Kidnapping_Abduction,52
+Alabama,Sex,94
+Alabama,Arson,34
+Alabama,Bribery,0
+Alabama,Burglary/Breaking & Entering,910
+Alabama,Counterfeiting/Forgery,186
+Alabama,Destruction/Damage/Vandalism ,1375
+Alabama,Embezzlement,40
+Alabama,Extortion/Blackmail,13
+Alabama,Fraud,820
+Alabama,Larceny/Theft,3840
+Alabama,Motor Vehicle Theft,541
+Alabama,Robbery,66
+Alabama,Stolen Property,156
+Alabama,Animal Cruelty,43
+Alabama,Drug/Narcotic,2903
+Alabama,Gambling,1
+Alabama,Pornography/Obscene Material,11
+Alabama,Prostitution,0
+Alabama,Weapon Law Violations,277
+Arizona,Assault,16756
+Arizona,Homicide,86
+Arizona,Human Trafficking,5
+Arizona,Kidnapping_Abduction,302
+Arizona,Sex,1291
+Arizona,Arson,186
+Arizona,Bribery,1
+Arizona,Burglary/Breaking & Entering,4404
+Arizona,Counterfeiting/Forgery,567
+Arizona,Destruction/Damage/Vandalism ,8390
+Arizona,Embezzlement,147
+Arizona,Extortion/Blackmail,113
+Arizona,Fraud,6778
+Arizona,Larceny/Theft,23063
+Arizona,Motor Vehicle Theft,2611
+Arizona,Robbery,720
+Arizona,Stolen Property,304
+Arizona,Animal Cruelty,182
+Arizona,Drug/Narcotic,16530
+Arizona,Gambling,0
+Arizona,Pornography/Obscene Material,232
+Arizona,Prostitution,39
+Arizona,Weapon Law Violations,1256
+Arkansas,Assault,60103
+Arkansas,Homicide,340
+Arkansas,Human Trafficking,2
+Arkansas,Kidnapping_Abduction,685
+Arkansas,Sex,2763
+Arkansas,Arson,556
+Arkansas,Bribery,1
+Arkansas,Burglary/Breaking & Entering,14994
+Arkansas,Counterfeiting/Forgery,3868
+Arkansas,Destruction/Damage/Vandalism ,26063
+Arkansas,Embezzlement,77
+Arkansas,Extortion/Blackmail,47
+Arkansas,Fraud,23636
+Arkansas,Larceny/Theft,54991
+Arkansas,Motor Vehicle Theft,7355
+Arkansas,Robbery,1440
+Arkansas,Stolen Property,2481
+Arkansas,Animal Cruelty,11
+Arkansas,Drug/Narcotic,31860
+Arkansas,Gambling,17
+Arkansas,Pornography/Obscene Material,390
+Arkansas,Prostitution,48
+Arkansas,Weapon Law Violations,3394
+Colorado,Assault,55631
+Colorado,Homicide,350
+Colorado,Human Trafficking,30
+Colorado,Kidnapping_Abduction,2403
+Colorado,Sex,5807
+Colorado,Arson,1329
+Colorado,Bribery,156
+Colorado,Burglary/Breaking & Entering,22539
+Colorado,Counterfeiting/Forgery,3910
+Colorado,Destruction/Damage/Vandalism ,48987
+Colorado,Embezzlement,313
+Colorado,Extortion/Blackmail,751
+Colorado,Fraud,29769
+Colorado,Larceny/Theft,112828
+Colorado,Motor Vehicle Theft,30179
+Colorado,Robbery,3958
+Colorado,Stolen Property,2904
+Colorado,Animal Cruelty,759
+Colorado,Drug/Narcotic,22217
+Colorado,Gambling,5
+Colorado,Pornography/Obscene Material,874
+Colorado,Prostitution,224
+Colorado,Weapon Law Violations,7203
+Connecticut,Assault,25994
+Connecticut,Homicide,134
+Connecticut,Human Trafficking,10
+Connecticut,Kidnapping_Abduction,249
+Connecticut,Sex,1446
+Connecticut,Arson,159
+Connecticut,Bribery,3
+Connecticut,Burglary/Breaking & Entering,5897
+Connecticut,Counterfeiting/Forgery,1356
+Connecticut,Destruction/Damage/Vandalism ,14435
+Connecticut,Embezzlement,214
+Connecticut,Extortion/Blackmail,164
+Connecticut,Fraud,8575
+Connecticut,Larceny/Theft,37125
+Connecticut,Motor Vehicle Theft,7295
+Connecticut,Robbery,1695
+Connecticut,Stolen Property,1279
+Connecticut,Animal Cruelty,85
+Connecticut,Drug/Narcotic,8060
+Connecticut,Gambling,16
+Connecticut,Pornography/Obscene Material,208
+Connecticut,Prostitution,39
+Connecticut,Weapon Law Violations,2372
+Delaware,Assault,15255
+Delaware,Homicide,87
+Delaware,Human Trafficking,6
+Delaware,Kidnapping_Abduction,215
+Delaware,Sex,591
+Delaware,Arson,138
+Delaware,Bribery,1
+Delaware,Burglary/Breaking & Entering,2572
+Delaware,Counterfeiting/Forgery,427
+Delaware,Destruction/Damage/Vandalism ,9085
+Delaware,Embezzlement,150
+Delaware,Extortion/Blackmail,74
+Delaware,Fraud,6090
+Delaware,Larceny/Theft,15849
+Delaware,Motor Vehicle Theft,1597
+Delaware,Robbery,705
+Delaware,Stolen Property,556
+Delaware,Animal Cruelty,1154
+Delaware,Drug/Narcotic,9431
+Delaware,Gambling,31
+Delaware,Pornography/Obscene Material,104
+Delaware,Prostitution,41
+Delaware,Weapon Law Violations,2173
+District of Columbia,Assault,994
+District of Columbia,Homicide,3
+District of Columbia,Human Trafficking,0
+District of Columbia,Kidnapping_Abduction,3
+District of Columbia,Sex,62
+District of Columbia,Arson,2
+District of Columbia,Bribery,0
+District of Columbia,Burglary/Breaking & Entering,1
+District of Columbia,Counterfeiting/Forgery,4
+District of Columbia,Destruction/Damage/Vandalism ,428
+District of Columbia,Embezzlement,0
+District of Columbia,Extortion/Blackmail,0
+District of Columbia,Fraud,9
+District of Columbia,Larceny/Theft,412
+District of Columbia,Motor Vehicle Theft,29
+District of Columbia,Robbery,165
+District of Columbia,Stolen Property,15
+District of Columbia,Animal Cruelty,1
+District of Columbia,Drug/Narcotic,330
+District of Columbia,Gambling,0
+District of Columbia,Pornography/Obscene Material,0
+District of Columbia,Prostitution,0
+District of Columbia,Weapon Law Violations,77
+Georgia,Assault,91136
+Georgia,Homicide,605
+Georgia,Human Trafficking,215
+Georgia,Kidnapping_Abduction,2040
+Georgia,Sex,5965
+Georgia,Arson,651
+Georgia,Bribery,12
+Georgia,Burglary/Breaking & Entering,18567
+Georgia,Counterfeiting/Forgery,5526
+Georgia,Destruction/Damage/Vandalism ,36394
+Georgia,Embezzlement,312
+Georgia,Extortion/Blackmail,251
+Georgia,Fraud,27491
+Georgia,Larceny/Theft,97267
+Georgia,Motor Vehicle Theft,14621
+Georgia,Robbery,3862
+Georgia,Stolen Property,2866
+Georgia,Animal Cruelty,885
+Georgia,Drug/Narcotic,32004
+Georgia,Gambling,32
+Georgia,Pornography/Obscene Material,1153
+Georgia,Prostitution,246
+Georgia,Weapon Law Violations,4695
+Hawaii,Assault,8358
+Hawaii,Homicide,25
+Hawaii,Human Trafficking,10
+Hawaii,Kidnapping_Abduction,323
+Hawaii,Sex,660
+Hawaii,Arson,319
+Hawaii,Bribery,2
+Hawaii,Burglary/Breaking & Entering,3301
+Hawaii,Counterfeiting/Forgery,417
+Hawaii,Destruction/Damage/Vandalism ,949
+Hawaii,Embezzlement,32
+Hawaii,Extortion/Blackmail,134
+Hawaii,Fraud,4091
+Hawaii,Larceny/Theft,18238
+Hawaii,Motor Vehicle Theft,3744
+Hawaii,Robbery,743
+Hawaii,Stolen Property,760
+Hawaii,Animal Cruelty,46
+Hawaii,Drug/Narcotic,2400
+Hawaii,Gambling,313
+Hawaii,Pornography/Obscene Material,60
+Hawaii,Prostitution,40
+Hawaii,Weapon Law Violations,421
+Idaho,Assault,14725
+Idaho,Homicide,48
+Idaho,Human Trafficking,4
+Idaho,Kidnapping_Abduction,241
+Idaho,Sex,1954
+Idaho,Arson,152
+Idaho,Bribery,1
+Idaho,Burglary/Breaking & Entering,3405
+Idaho,Counterfeiting/Forgery,744
+Idaho,Destruction/Damage/Vandalism ,6751
+Idaho,Embezzlement,139
+Idaho,Extortion/Blackmail,101
+Idaho,Fraud,4936
+Idaho,Larceny/Theft,14611
+Idaho,Motor Vehicle Theft,1626
+Idaho,Robbery,163
+Idaho,Stolen Property,407
+Idaho,Animal Cruelty,52
+Idaho,Drug/Narcotic,22434
+Idaho,Gambling,0
+Idaho,Pornography/Obscene Material,288
+Idaho,Prostitution,33
+Idaho,Weapon Law Violations,897
+Illinois,Assault,5350
+Illinois,Homicide,33
+Illinois,Human Trafficking,0
+Illinois,Kidnapping_Abduction,117
+Illinois,Sex,188
+Illinois,Arson,61
+Illinois,Bribery,0
+Illinois,Burglary/Breaking & Entering,784
+Illinois,Counterfeiting/Forgery,118
+Illinois,Destruction/Damage/Vandalism ,3154
+Illinois,Embezzlement,3
+Illinois,Extortion/Blackmail,3
+Illinois,Fraud,858
+Illinois,Larceny/Theft,3282
+Illinois,Motor Vehicle Theft,425
+Illinois,Robbery,246
+Illinois,Stolen Property,84
+Illinois,Animal Cruelty,1
+Illinois,Drug/Narcotic,557
+Illinois,Gambling,0
+Illinois,Pornography/Obscene Material,32
+Illinois,Prostitution,6
+Illinois,Weapon Law Violations,539
+Indiana,Assault,49876
+Indiana,Homicide,448
+Indiana,Human Trafficking,39
+Indiana,Kidnapping_Abduction,1275
+Indiana,Sex,3665
+Indiana,Arson,629
+Indiana,Bribery,11
+Indiana,Burglary/Breaking & Entering,11851
+Indiana,Counterfeiting/Forgery,2020
+Indiana,Destruction/Damage/Vandalism ,10360
+Indiana,Embezzlement,352
+Indiana,Extortion/Blackmail,105
+Indiana,Fraud,14877
+Indiana,Larceny/Theft,56932
+Indiana,Motor Vehicle Theft,10860
+Indiana,Robbery,3333
+Indiana,Stolen Property,1257
+Indiana,Animal Cruelty,437
+Indiana,Drug/Narcotic,30118
+Indiana,Gambling,249
+Indiana,Pornography/Obscene Material,718
+Indiana,Prostitution,60
+Indiana,Weapon Law Violations,4832
+Iowa,Assault,28466
+Iowa,Homicide,124
+Iowa,Human Trafficking,0
+Iowa,Kidnapping_Abduction,220
+Iowa,Sex,2062
+Iowa,Arson,419
+Iowa,Bribery,58
+Iowa,Burglary/Breaking & Entering,11149
+Iowa,Counterfeiting/Forgery,3159
+Iowa,Destruction/Damage/Vandalism ,17982
+Iowa,Embezzlement,164
+Iowa,Extortion/Blackmail,136
+Iowa,Fraud,7235
+Iowa,Larceny/Theft,36165
+Iowa,Motor Vehicle Theft,6195
+Iowa,Robbery,928
+Iowa,Stolen Property,714
+Iowa,Animal Cruelty,0
+Iowa,Drug/Narcotic,21444
+Iowa,Gambling,3
+Iowa,Pornography/Obscene Material,392
+Iowa,Prostitution,31
+Iowa,Weapon Law Violations,2436
+Kansas,Assault,39051
+Kansas,Homicide,95
+Kansas,Human Trafficking,0
+Kansas,Kidnapping_Abduction,1239
+Kansas,Sex,2222
+Kansas,Arson,512
+Kansas,Bribery,6
+Kansas,Burglary/Breaking & Entering,7818
+Kansas,Counterfeiting/Forgery,2850
+Kansas,Destruction/Damage/Vandalism ,25413
+Kansas,Embezzlement,634
+Kansas,Extortion/Blackmail,244
+Kansas,Fraud,12986
+Kansas,Larceny/Theft,39479
+Kansas,Motor Vehicle Theft,5913
+Kansas,Robbery,816
+Kansas,Stolen Property,1555
+Kansas,Animal Cruelty,1
+Kansas,Drug/Narcotic,27134
+Kansas,Gambling,6
+Kansas,Pornography/Obscene Material,387
+Kansas,Prostitution,76
+Kansas,Weapon Law Violations,2934
+Kentucky,Assault,43377
+Kentucky,Homicide,366
+Kentucky,Human Trafficking,19
+Kentucky,Kidnapping_Abduction,1166
+Kentucky,Sex,2959
+Kentucky,Arson,360
+Kentucky,Bribery,53
+Kentucky,Burglary/Breaking & Entering,14724
+Kentucky,Counterfeiting/Forgery,2458
+Kentucky,Destruction/Damage/Vandalism ,21038
+Kentucky,Embezzlement,1382
+Kentucky,Extortion/Blackmail,81
+Kentucky,Fraud,7066
+Kentucky,Larceny/Theft,54885
+Kentucky,Motor Vehicle Theft,11242
+Kentucky,Robbery,2288
+Kentucky,Stolen Property,4117
+Kentucky,Animal Cruelty,178
+Kentucky,Drug/Narcotic,41189
+Kentucky,Gambling,13
+Kentucky,Pornography/Obscene Material,573
+Kentucky,Prostitution,84
+Kentucky,Weapon Law Violations,2875
+Louisiana,Assault,21860
+Louisiana,Homicide,130
+Louisiana,Human Trafficking,2
+Louisiana,Kidnapping_Abduction,228
+Louisiana,Sex,775
+Louisiana,Arson,71
+Louisiana,Bribery,1
+Louisiana,Burglary/Breaking & Entering,6312
+Louisiana,Counterfeiting/Forgery,759
+Louisiana,Destruction/Damage/Vandalism ,9117
+Louisiana,Embezzlement,196
+Louisiana,Extortion/Blackmail,59
+Louisiana,Fraud,1735
+Louisiana,Larceny/Theft,23833
+Louisiana,Motor Vehicle Theft,2594
+Louisiana,Robbery,508
+Louisiana,Stolen Property,879
+Louisiana,Animal Cruelty,2
+Louisiana,Drug/Narcotic,12399
+Louisiana,Gambling,14
+Louisiana,Pornography/Obscene Material,314
+Louisiana,Prostitution,97
+Louisiana,Weapon Law Violations,1988
+Maine,Assault,7599
+Maine,Homicide,20
+Maine,Human Trafficking,3
+Maine,Kidnapping_Abduction,21
+Maine,Sex,695
+Maine,Arson,170
+Maine,Bribery,2
+Maine,Burglary/Breaking & Entering,1179
+Maine,Counterfeiting/Forgery,331
+Maine,Destruction/Damage/Vandalism ,4139
+Maine,Embezzlement,97
+Maine,Extortion/Blackmail,39
+Maine,Fraud,2529
+Maine,Larceny/Theft,7636
+Maine,Motor Vehicle Theft,508
+Maine,Robbery,100
+Maine,Stolen Property,65
+Maine,Animal Cruelty,26
+Maine,Drug/Narcotic,2693
+Maine,Gambling,2
+Maine,Pornography/Obscene Material,216
+Maine,Prostitution,37
+Maine,Weapon Law Violations,196
+Maryland,Assault,7239
+Maryland,Homicide,100
+Maryland,Human Trafficking,5
+Maryland,Kidnapping_Abduction,20
+Maryland,Sex,812
+Maryland,Arson,44
+Maryland,Bribery,0
+Maryland,Burglary/Breaking & Entering,2360
+Maryland,Counterfeiting/Forgery,647
+Maryland,Destruction/Damage/Vandalism ,8477
+Maryland,Embezzlement,95
+Maryland,Extortion/Blackmail,118
+Maryland,Fraud,5310
+Maryland,Larceny/Theft,19235
+Maryland,Motor Vehicle Theft,3317
+Maryland,Robbery,1280
+Maryland,Stolen Property,180
+Maryland,Animal Cruelty,5
+Maryland,Drug/Narcotic,3099
+Maryland,Gambling,1
+Maryland,Pornography/Obscene Material,105
+Maryland,Prostitution,28
+Maryland,Weapon Law Violations,898
+Massachusetts,Assault,64802
+Massachusetts,Homicide,167
+Massachusetts,Human Trafficking,28
+Massachusetts,Kidnapping_Abduction,487
+Massachusetts,Sex,3425
+Massachusetts,Arson,419
+Massachusetts,Bribery,12
+Massachusetts,Burglary/Breaking & Entering,10299
+Massachusetts,Counterfeiting/Forgery,2530
+Massachusetts,Destruction/Damage/Vandalism ,29897
+Massachusetts,Embezzlement,339
+Massachusetts,Extortion/Blackmail,534
+Massachusetts,Fraud,52246
+Massachusetts,Larceny/Theft,57363
+Massachusetts,Motor Vehicle Theft,6815
+Massachusetts,Robbery,2999
+Massachusetts,Stolen Property,1747
+Massachusetts,Animal Cruelty,115
+Massachusetts,Drug/Narcotic,8846
+Massachusetts,Gambling,59
+Massachusetts,Pornography/Obscene Material,891
+Massachusetts,Prostitution,157
+Massachusetts,Weapon Law Violations,3238
+Michigan,Assault,143029
+Michigan,Homicide,848
+Michigan,Human Trafficking,49
+Michigan,Kidnapping_Abduction,818
+Michigan,Sex,10366
+Michigan,Arson,1768
+Michigan,Bribery,11
+Michigan,Burglary/Breaking & Entering,22172
+Michigan,Counterfeiting/Forgery,3017
+Michigan,Destruction/Damage/Vandalism ,47579
+Michigan,Embezzlement,1685
+Michigan,Extortion/Blackmail,517
+Michigan,Fraud,36400
+Michigan,Larceny/Theft,93671
+Michigan,Motor Vehicle Theft,18074
+Michigan,Robbery,4424
+Michigan,Stolen Property,4631
+Michigan,Animal Cruelty,487
+Michigan,Drug/Narcotic,25083
+Michigan,Gambling,23
+Michigan,Pornography/Obscene Material,1070
+Michigan,Prostitution,508
+Michigan,Weapon Law Violations,15803
+Minnesota,Assault,28884
+Minnesota,Homicide,188
+Minnesota,Human Trafficking,50
+Minnesota,Kidnapping_Abduction,464
+Minnesota,Sex,3014
+Minnesota,Arson,454
+Minnesota,Bribery,7
+Minnesota,Burglary/Breaking & Entering,11528
+Minnesota,Counterfeiting/Forgery,3306
+Minnesota,Destruction/Damage/Vandalism ,23618
+Minnesota,Embezzlement,156
+Minnesota,Extortion/Blackmail,144
+Minnesota,Fraud,13812
+Minnesota,Larceny/Theft,57242
+Minnesota,Motor Vehicle Theft,10039
+Minnesota,Robbery,2852
+Minnesota,Stolen Property,2848
+Minnesota,Animal Cruelty,260
+Minnesota,Drug/Narcotic,17993
+Minnesota,Gambling,12
+Minnesota,Pornography/Obscene Material,497
+Minnesota,Prostitution,22
+Minnesota,Weapon Law Violations,3994
+Mississippi,Assault,16016
+Mississippi,Homicide,91
+Mississippi,Human Trafficking,0
+Mississippi,Kidnapping_Abduction,78
+Mississippi,Sex,658
+Mississippi,Arson,128
+Mississippi,Bribery,9
+Mississippi,Burglary/Breaking & Entering,4730
+Mississippi,Counterfeiting/Forgery,734
+Mississippi,Destruction/Damage/Vandalism ,5864
+Mississippi,Embezzlement,502
+Mississippi,Extortion/Blackmail,36
+Mississippi,Fraud,3708
+Mississippi,Larceny/Theft,18123
+Mississippi,Motor Vehicle Theft,2221
+Mississippi,Robbery,398
+Mississippi,Stolen Property,720
+Mississippi,Animal Cruelty,209
+Mississippi,Drug/Narcotic,12103
+Mississippi,Gambling,7
+Mississippi,Pornography/Obscene Material,119
+Mississippi,Prostitution,18
+Mississippi,Weapon Law Violations,1425
+Missouri,Assault,54524
+Missouri,Homicide,402
+Missouri,Human Trafficking,36
+Missouri,Kidnapping_Abduction,513
+Missouri,Sex,2983
+Missouri,Arson,760
+Missouri,Bribery,3
+Missouri,Burglary/Breaking & Entering,13587
+Missouri,Counterfeiting/Forgery,3390
+Missouri,Destruction/Damage/Vandalism ,25966
+Missouri,Embezzlement,502
+Missouri,Extortion/Blackmail,71
+Missouri,Fraud,12086
+Missouri,Larceny/Theft,72422
+Missouri,Motor Vehicle Theft,15741
+Missouri,Robbery,2865
+Missouri,Stolen Property,2415
+Missouri,Animal Cruelty,214
+Missouri,Drug/Narcotic,40198
+Missouri,Gambling,29
+Missouri,Pornography/Obscene Material,489
+Missouri,Prostitution,106
+Missouri,Weapon Law Violations,5048
+Montana,Assault,11845
+Montana,Homicide,61
+Montana,Human Trafficking,4
+Montana,Kidnapping_Abduction,272
+Montana,Sex,1448
+Montana,Arson,156
+Montana,Bribery,2
+Montana,Burglary/Breaking & Entering,2696
+Montana,Counterfeiting/Forgery,1014
+Montana,Destruction/Damage/Vandalism ,8163
+Montana,Embezzlement,72
+Montana,Extortion/Blackmail,7
+Montana,Fraud,2525
+Montana,Larceny/Theft,18039
+Montana,Motor Vehicle Theft,2521
+Montana,Robbery,272
+Montana,Stolen Property,276
+Montana,Animal Cruelty,100
+Montana,Drug/Narcotic,7211
+Montana,Gambling,0
+Montana,Pornography/Obscene Material,16
+Montana,Prostitution,23
+Montana,Weapon Law Violations,208
+Nebraska,Assault,8192
+Nebraska,Homicide,25
+Nebraska,Human Trafficking,1
+Nebraska,Kidnapping_Abduction,138
+Nebraska,Sex,891
+Nebraska,Arson,90
+Nebraska,Bribery,8
+Nebraska,Burglary/Breaking & Entering,1376
+Nebraska,Counterfeiting/Forgery,611
+Nebraska,Destruction/Damage/Vandalism ,5662
+Nebraska,Embezzlement,81
+Nebraska,Extortion/Blackmail,90
+Nebraska,Fraud,2335
+Nebraska,Larceny/Theft,8108
+Nebraska,Motor Vehicle Theft,1110
+Nebraska,Robbery,109
+Nebraska,Stolen Property,341
+Nebraska,Animal Cruelty,53
+Nebraska,Drug/Narcotic,7680
+Nebraska,Gambling,0
+Nebraska,Pornography/Obscene Material,184
+Nebraska,Prostitution,22
+Nebraska,Weapon Law Violations,694
+Nevada,Assault,23483
+Nevada,Homicide,93
+Nevada,Human Trafficking,111
+Nevada,Kidnapping_Abduction,419
+Nevada,Sex,1561
+Nevada,Arson,154
+Nevada,Bribery,7
+Nevada,Burglary/Breaking & Entering,4866
+Nevada,Counterfeiting/Forgery,669
+Nevada,Destruction/Damage/Vandalism ,8551
+Nevada,Embezzlement,490
+Nevada,Extortion/Blackmail,115
+Nevada,Fraud,6930
+Nevada,Larceny/Theft,17125
+Nevada,Motor Vehicle Theft,4648
+Nevada,Robbery,1041
+Nevada,Stolen Property,1131
+Nevada,Animal Cruelty,44
+Nevada,Drug/Narcotic,8506
+Nevada,Gambling,20
+Nevada,Pornography/Obscene Material,86
+Nevada,Prostitution,590
+Nevada,Weapon Law Violations,2470
+New Hampshire,Assault,13096
+New Hampshire,Homicide,24
+New Hampshire,Human Trafficking,7
+New Hampshire,Kidnapping_Abduction,253
+New Hampshire,Sex,1533
+New Hampshire,Arson,145
+New Hampshire,Bribery,3
+New Hampshire,Burglary/Breaking & Entering,1314
+New Hampshire,Counterfeiting/Forgery,689
+New Hampshire,Destruction/Damage/Vandalism ,7847
+New Hampshire,Embezzlement,111
+New Hampshire,Extortion/Blackmail,122
+New Hampshire,Fraud,5472
+New Hampshire,Larceny/Theft,12208
+New Hampshire,Motor Vehicle Theft,904
+New Hampshire,Robbery,260
+New Hampshire,Stolen Property,710
+New Hampshire,Animal Cruelty,188
+New Hampshire,Drug/Narcotic,6183
+New Hampshire,Gambling,4
+New Hampshire,Pornography/Obscene Material,700
+New Hampshire,Prostitution,68
+New Hampshire,Weapon Law Violations,461
+New Mexico,Assault,23577
+New Mexico,Homicide,126
+New Mexico,Human Trafficking,4
+New Mexico,Kidnapping_Abduction,853
+New Mexico,Sex,1398
+New Mexico,Arson,234
+New Mexico,Bribery,44
+New Mexico,Burglary/Breaking & Entering,7221
+New Mexico,Counterfeiting/Forgery,705
+New Mexico,Destruction/Damage/Vandalism ,15032
+New Mexico,Embezzlement,406
+New Mexico,Extortion/Blackmail,110
+New Mexico,Fraud,5355
+New Mexico,Larceny/Theft,26734
+New Mexico,Motor Vehicle Theft,6779
+New Mexico,Robbery,1677
+New Mexico,Stolen Property,908
+New Mexico,Animal Cruelty,62
+New Mexico,Drug/Narcotic,5918
+New Mexico,Gambling,1
+New Mexico,Pornography/Obscene Material,157
+New Mexico,Prostitution,59
+New Mexico,Weapon Law Violations,1696
+New York,Assault,11135
+New York,Homicide,22
+New York,Human Trafficking,0
+New York,Kidnapping_Abduction,193
+New York,Sex,522
+New York,Arson,111
+New York,Bribery,1
+New York,Burglary/Breaking & Entering,2195
+New York,Counterfeiting/Forgery,622
+New York,Destruction/Damage/Vandalism ,8007
+New York,Embezzlement,8
+New York,Extortion/Blackmail,45
+New York,Fraud,2260
+New York,Larceny/Theft,17010
+New York,Motor Vehicle Theft,1289
+New York,Robbery,551
+New York,Stolen Property,536
+New York,Animal Cruelty,0
+New York,Drug/Narcotic,2548
+New York,Gambling,0
+New York,Pornography/Obscene Material,51
+New York,Prostitution,27
+New York,Weapon Law Violations,498
+North Carolina,Assault,120176
+North Carolina,Homicide,809
+North Carolina,Human Trafficking,56
+North Carolina,Kidnapping_Abduction,1900
+North Carolina,Sex,5518
+North Carolina,Arson,1405
+North Carolina,Bribery,11
+North Carolina,Burglary/Breaking & Entering,40035
+North Carolina,Counterfeiting/Forgery,5115
+North Carolina,Destruction/Damage/Vandalism ,57978
+North Carolina,Embezzlement,1782
+North Carolina,Extortion/Blackmail,626
+North Carolina,Fraud,38413
+North Carolina,Larceny/Theft,157274
+North Carolina,Motor Vehicle Theft,17618
+North Carolina,Robbery,6591
+North Carolina,Stolen Property,5288
+North Carolina,Animal Cruelty,481
+North Carolina,Drug/Narcotic,84595
+North Carolina,Gambling,95
+North Carolina,Pornography/Obscene Material,1551
+North Carolina,Prostitution,311
+North Carolina,Weapon Law Violations,13086
+North Dakota,Assault,9620
+North Dakota,Homicide,34
+North Dakota,Human Trafficking,11
+North Dakota,Kidnapping_Abduction,135
+North Dakota,Sex,969
+North Dakota,Arson,87
+North Dakota,Bribery,0
+North Dakota,Burglary/Breaking & Entering,2823
+North Dakota,Counterfeiting/Forgery,712
+North Dakota,Destruction/Damage/Vandalism ,4522
+North Dakota,Embezzlement,114
+North Dakota,Extortion/Blackmail,45
+North Dakota,Fraud,3620
+North Dakota,Larceny/Theft,11018
+North Dakota,Motor Vehicle Theft,1820
+North Dakota,Robbery,144
+North Dakota,Stolen Property,650
+North Dakota,Animal Cruelty,88
+North Dakota,Drug/Narcotic,12035
+North Dakota,Gambling,6
+North Dakota,Pornography/Obscene Material,192
+North Dakota,Prostitution,34
+North Dakota,Weapon Law Violations,638
+Ohio,Assault,139203
+Ohio,Homicide,747
+Ohio,Human Trafficking,16
+Ohio,Kidnapping_Abduction,1908
+Ohio,Sex,7081
+Ohio,Arson,875
+Ohio,Bribery,9
+Ohio,Burglary/Breaking & Entering,30290
+Ohio,Counterfeiting/Forgery,2351
+Ohio,Destruction/Damage/Vandalism ,61775
+Ohio,Embezzlement,113
+Ohio,Extortion/Blackmail,383
+Ohio,Fraud,18935
+Ohio,Larceny/Theft,130184
+Ohio,Motor Vehicle Theft,17091
+Ohio,Robbery,6954
+Ohio,Stolen Property,3896
+Ohio,Animal Cruelty,218
+Ohio,Drug/Narcotic,48301
+Ohio,Gambling,3
+Ohio,Pornography/Obscene Material,1246
+Ohio,Prostitution,409
+Ohio,Weapon Law Violations,11788
+Oklahoma,Assault,33454
+Oklahoma,Homicide,206
+Oklahoma,Human Trafficking,12
+Oklahoma,Kidnapping_Abduction,459
+Oklahoma,Sex,2659
+Oklahoma,Arson,539
+Oklahoma,Bribery,10
+Oklahoma,Burglary/Breaking & Entering,14068
+Oklahoma,Counterfeiting/Forgery,2120
+Oklahoma,Destruction/Damage/Vandalism ,15546
+Oklahoma,Embezzlement,1246
+Oklahoma,Extortion/Blackmail,256
+Oklahoma,Fraud,14713
+Oklahoma,Larceny/Theft,41339
+Oklahoma,Motor Vehicle Theft,8637
+Oklahoma,Robbery,1227
+Oklahoma,Stolen Property,2027
+Oklahoma,Animal Cruelty,102
+Oklahoma,Drug/Narcotic,15950
+Oklahoma,Gambling,1
+Oklahoma,Pornography/Obscene Material,513
+Oklahoma,Prostitution,75
+Oklahoma,Weapon Law Violations,3154
+Oregon,Assault,34389
+Oregon,Homicide,171
+Oregon,Human Trafficking,24
+Oregon,Kidnapping_Abduction,445
+Oregon,Sex,3194
+Oregon,Arson,1315
+Oregon,Bribery,11
+Oregon,Burglary/Breaking & Entering,13283
+Oregon,Counterfeiting/Forgery,3155
+Oregon,Destruction/Damage/Vandalism ,35668
+Oregon,Embezzlement,253
+Oregon,Extortion/Blackmail,160
+Oregon,Fraud,16272
+Oregon,Larceny/Theft,79717
+Oregon,Motor Vehicle Theft,15607
+Oregon,Robbery,2105
+Oregon,Stolen Property,1069
+Oregon,Animal Cruelty,407
+Oregon,Drug/Narcotic,15546
+Oregon,Gambling,1
+Oregon,Pornography/Obscene Material,520
+Oregon,Prostitution,116
+Oregon,Weapon Law Violations,5799
+Pennsylvania,Assault,238
+Pennsylvania,Homicide,3
+Pennsylvania,Human Trafficking,0
+Pennsylvania,Kidnapping_Abduction,5
+Pennsylvania,Sex,18
+Pennsylvania,Arson,2
+Pennsylvania,Bribery,0
+Pennsylvania,Burglary/Breaking & Entering,20
+Pennsylvania,Counterfeiting/Forgery,20
+Pennsylvania,Destruction/Damage/Vandalism ,112
+Pennsylvania,Embezzlement,3
+Pennsylvania,Extortion/Blackmail,0
+Pennsylvania,Fraud,177
+Pennsylvania,Larceny/Theft,353
+Pennsylvania,Motor Vehicle Theft,18
+Pennsylvania,Robbery,6
+Pennsylvania,Stolen Property,11
+Pennsylvania,Animal Cruelty,1
+Pennsylvania,Drug/Narcotic,219
+Pennsylvania,Gambling,0
+Pennsylvania,Pornography/Obscene Material,7
+Pennsylvania,Prostitution,0
+Pennsylvania,Weapon Law Violations,40
+Rhode Island,Assault,8508
+Rhode Island,Homicide,32
+Rhode Island,Human Trafficking,3
+Rhode Island,Kidnapping_Abduction,52
+Rhode Island,Sex,651
+Rhode Island,Arson,120
+Rhode Island,Bribery,0
+Rhode Island,Burglary/Breaking & Entering,1801
+Rhode Island,Counterfeiting/Forgery,532
+Rhode Island,Destruction/Damage/Vandalism ,6327
+Rhode Island,Embezzlement,113
+Rhode Island,Extortion/Blackmail,72
+Rhode Island,Fraud,4148
+Rhode Island,Larceny/Theft,10076
+Rhode Island,Motor Vehicle Theft,1496
+Rhode Island,Robbery,337
+Rhode Island,Stolen Property,432
+Rhode Island,Animal Cruelty,35
+Rhode Island,Drug/Narcotic,2265
+Rhode Island,Gambling,7
+Rhode Island,Pornography/Obscene Material,413
+Rhode Island,Prostitution,13
+Rhode Island,Weapon Law Violations,824
+South Carolina,Assault,88748
+South Carolina,Homicide,575
+South Carolina,Human Trafficking,23
+South Carolina,Kidnapping_Abduction,1085
+South Carolina,Sex,3654
+South Carolina,Arson,710
+South Carolina,Bribery,4
+South Carolina,Burglary/Breaking & Entering,21659
+South Carolina,Counterfeiting/Forgery,4563
+South Carolina,Destruction/Damage/Vandalism ,35383
+South Carolina,Embezzlement,827
+South Carolina,Extortion/Blackmail,208
+South Carolina,Fraud,20234
+South Carolina,Larceny/Theft,103272
+South Carolina,Motor Vehicle Theft,14065
+South Carolina,Robbery,3076
+South Carolina,Stolen Property,4446
+South Carolina,Animal Cruelty,313
+South Carolina,Drug/Narcotic,46806
+South Carolina,Gambling,40
+South Carolina,Pornography/Obscene Material,803
+South Carolina,Prostitution,169
+South Carolina,Weapon Law Violations,8975
+South Dakota,Assault,12063
+South Dakota,Homicide,52
+South Dakota,Human Trafficking,2
+South Dakota,Kidnapping_Abduction,171
+South Dakota,Sex,1128
+South Dakota,Arson,88
+South Dakota,Bribery,0
+South Dakota,Burglary/Breaking & Entering,2628
+South Dakota,Counterfeiting/Forgery,824
+South Dakota,Destruction/Damage/Vandalism ,4871
+South Dakota,Embezzlement,227
+South Dakota,Extortion/Blackmail,36
+South Dakota,Fraud,2323
+South Dakota,Larceny/Theft,12987
+South Dakota,Motor Vehicle Theft,2120
+South Dakota,Robbery,244
+South Dakota,Stolen Property,443
+South Dakota,Animal Cruelty,21
+South Dakota,Drug/Narcotic,12738
+South Dakota,Gambling,11
+South Dakota,Pornography/Obscene Material,232
+South Dakota,Prostitution,33
+South Dakota,Weapon Law Violations,724
+Tennessee,Assault,136180
+Tennessee,Homicide,747
+Tennessee,Human Trafficking,40
+Tennessee,Kidnapping_Abduction,2028
+Tennessee,Sex,5318
+Tennessee,Arson,992
+Tennessee,Bribery,23
+Tennessee,Burglary/Breaking & Entering,25796
+Tennessee,Counterfeiting/Forgery,5439
+Tennessee,Destruction/Damage/Vandalism ,47632
+Tennessee,Embezzlement,1646
+Tennessee,Extortion/Blackmail,521
+Tennessee,Fraud,25717
+Tennessee,Larceny/Theft,126481
+Tennessee,Motor Vehicle Theft,20718
+Tennessee,Robbery,5604
+Tennessee,Stolen Property,2581
+Tennessee,Animal Cruelty,423
+Tennessee,Drug/Narcotic,79671
+Tennessee,Gambling,20
+Tennessee,Pornography/Obscene Material,790
+Tennessee,Prostitution,340
+Tennessee,Weapon Law Violations,12628
+Texas,Assault,337069
+Texas,Homicide,1792
+Texas,Human Trafficking,399
+Texas,Kidnapping_Abduction,2758
+Texas,Sex,15783
+Texas,Arson,2423
+Texas,Bribery,75
+Texas,Burglary/Breaking & Entering,81815
+Texas,Counterfeiting/Forgery,16970
+Texas,Destruction/Damage/Vandalism ,136429
+Texas,Embezzlement,2025
+Texas,Extortion/Blackmail,562
+Texas,Fraud,70765
+Texas,Larceny/Theft,378566
+Texas,Motor Vehicle Theft,69518
+Texas,Robbery,23329
+Texas,Stolen Property,3274
+Texas,Animal Cruelty,2137
+Texas,Drug/Narcotic,126171
+Texas,Gambling,376
+Texas,Pornography/Obscene Material,3523
+Texas,Prostitution,1942
+Texas,Weapon Law Violations,21031
+Utah,Assault,28617
+Utah,Homicide,110
+Utah,Human Trafficking,66
+Utah,Kidnapping_Abduction,891
+Utah,Sex,4036
+Utah,Arson,277
+Utah,Bribery,11
+Utah,Burglary/Breaking & Entering,7643
+Utah,Counterfeiting/Forgery,2416
+Utah,Destruction/Damage/Vandalism ,23095
+Utah,Embezzlement,85
+Utah,Extortion/Blackmail,264
+Utah,Fraud,12573
+Utah,Larceny/Theft,53131
+Utah,Motor Vehicle Theft,8669
+Utah,Robbery,1159
+Utah,Stolen Property,2001
+Utah,Animal Cruelty,64
+Utah,Drug/Narcotic,35355
+Utah,Gambling,4
+Utah,Pornography/Obscene Material,520
+Utah,Prostitution,143
+Utah,Weapon Law Violations,3399
+Vermont,Assault,3569
+Vermont,Homicide,18
+Vermont,Human Trafficking,1
+Vermont,Kidnapping_Abduction,93
+Vermont,Sex,307
+Vermont,Arson,42
+Vermont,Bribery,1
+Vermont,Burglary/Breaking & Entering,976
+Vermont,Counterfeiting/Forgery,189
+Vermont,Destruction/Damage/Vandalism ,2874
+Vermont,Embezzlement,60
+Vermont,Extortion/Blackmail,11
+Vermont,Fraud,1422
+Vermont,Larceny/Theft,6451
+Vermont,Motor Vehicle Theft,260
+Vermont,Robbery,64
+Vermont,Stolen Property,145
+Vermont,Animal Cruelty,33
+Vermont,Drug/Narcotic,1181
+Vermont,Gambling,1
+Vermont,Pornography/Obscene Material,88
+Vermont,Prostitution,16
+Vermont,Weapon Law Violations,78
+Virginia,Assault,91564
+Virginia,Homicide,588
+Virginia,Human Trafficking,60
+Virginia,Kidnapping_Abduction,1642
+Virginia,Sex,4821
+Virginia,Arson,621
+Virginia,Bribery,26
+Virginia,Burglary/Breaking & Entering,11405
+Virginia,Counterfeiting/Forgery,4330
+Virginia,Destruction/Damage/Vandalism ,48518
+Virginia,Embezzlement,1792
+Virginia,Extortion/Blackmail,872
+Virginia,Fraud,33569
+Virginia,Larceny/Theft,104720
+Virginia,Motor Vehicle Theft,10770
+Virginia,Robbery,2962
+Virginia,Stolen Property,1396
+Virginia,Animal Cruelty,1164
+Virginia,Drug/Narcotic,56611
+Virginia,Gambling,9
+Virginia,Pornography/Obscene Material,1894
+Virginia,Prostitution,371
+Virginia,Weapon Law Violations,14022
+Washington,Assault,72069
+Washington,Homicide,334
+Washington,Human Trafficking,78
+Washington,Kidnapping_Abduction,1264
+Washington,Sex,5243
+Washington,Arson,1297
+Washington,Bribery,14
+Washington,Burglary/Breaking & Entering,38635
+Washington,Counterfeiting/Forgery,4361
+Washington,Destruction/Damage/Vandalism ,67070
+Washington,Embezzlement,209
+Washington,Extortion/Blackmail,646
+Washington,Fraud,57591
+Washington,Larceny/Theft,148503
+Washington,Motor Vehicle Theft,27100
+Washington,Robbery,5154
+Washington,Stolen Property,5815
+Washington,Animal Cruelty,200
+Washington,Drug/Narcotic,23864
+Washington,Gambling,9
+Washington,Pornography/Obscene Material,739
+Washington,Prostitution,415
+Washington,Weapon Law Violations,5625
+West Virginia,Assault,13128
+West Virginia,Homicide,121
+West Virginia,Human Trafficking,59
+West Virginia,Kidnapping_Abduction,137
+West Virginia,Sex,1163
+West Virginia,Arson,272
+West Virginia,Bribery,3
+West Virginia,Burglary/Breaking & Entering,4149
+West Virginia,Counterfeiting/Forgery,814
+West Virginia,Destruction/Damage/Vandalism ,5926
+West Virginia,Embezzlement,87
+West Virginia,Extortion/Blackmail,8
+West Virginia,Fraud,2067
+West Virginia,Larceny/Theft,15529
+West Virginia,Motor Vehicle Theft,1994
+West Virginia,Robbery,311
+West Virginia,Stolen Property,720
+West Virginia,Animal Cruelty,9
+West Virginia,Drug/Narcotic,10653
+West Virginia,Gambling,0
+West Virginia,Pornography/Obscene Material,495
+West Virginia,Prostitution,30
+West Virginia,Weapon Law Violations,1592
+Wisconsin,Assault,39165
+Wisconsin,Homicide,409
+Wisconsin,Human Trafficking,85
+Wisconsin,Kidnapping_Abduction,938
+Wisconsin,Sex,3801
+Wisconsin,Arson,545
+Wisconsin,Bribery,9
+Wisconsin,Burglary/Breaking & Entering,10462
+Wisconsin,Counterfeiting/Forgery,1890
+Wisconsin,Destruction/Damage/Vandalism ,23765
+Wisconsin,Embezzlement,533
+Wisconsin,Extortion/Blackmail,242
+Wisconsin,Fraud,12793
+Wisconsin,Larceny/Theft,54942
+Wisconsin,Motor Vehicle Theft,8543
+Wisconsin,Robbery,2922
+Wisconsin,Stolen Property,1264
+Wisconsin,Animal Cruelty,241
+Wisconsin,Drug/Narcotic,37553
+Wisconsin,Gambling,3
+Wisconsin,Pornography/Obscene Material,1418
+Wisconsin,Prostitution,216
+Wisconsin,Weapon Law Violations,9734
+Wyoming,Assault,1085
+Wyoming,Homicide,2
+Wyoming,Human Trafficking,1
+Wyoming,Kidnapping_Abduction,18
+Wyoming,Sex,107
+Wyoming,Arson,8
+Wyoming,Bribery,0
+Wyoming,Burglary/Breaking & Entering,161
+Wyoming,Counterfeiting/Forgery,51
+Wyoming,Destruction/Damage/Vandalism ,404
+Wyoming,Embezzlement,5
+Wyoming,Extortion/Blackmail,5
+Wyoming,Fraud,153
+Wyoming,Larceny/Theft,812
+Wyoming,Motor Vehicle Theft,74
+Wyoming,Robbery,6
+Wyoming,Stolen Property,8
+Wyoming,Animal Cruelty,29
+Wyoming,Drug/Narcotic,803
+Wyoming,Gambling,0
+Wyoming,Pornography/Obscene Material,7
+Wyoming,Prostitution,2
+Wyoming,Weapon Law Violations,14
