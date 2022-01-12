@@ -45,3 +45,7 @@ Industry standard communications protocols remain in effect. To wit:
 Zoom meetings will be attended with video on, and camera operating
 When not speaking, microphone will be muted
 Slack channels will be uncluttered and used only for official communications related to the project to ensure confusion is minimized. 
+
+
+Dashboard Blueprint:
+https://docs.google.com/presentation/d/1WP2fsga8pHQ5kwCSXEVQ7G7VRfetKjTvwkud-zFyYQE/edit?usp=sharing
