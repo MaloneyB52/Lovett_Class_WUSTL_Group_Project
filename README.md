@@ -20,7 +20,7 @@ While the debate between law enforcement size and resourcing is certainly alive 
       4) Crime statistics are easily understood and lend themselves to graphical display and geographical analysis thereby allowing our team to showcase 
        various aspects of the course and the material learned
 
-Description of their source data: TBD
+Description of their source data: https://crime-data-explorer.fr.cloud.gov/pages/downloads
 
 Questions they hope to answer with the data: 
 
