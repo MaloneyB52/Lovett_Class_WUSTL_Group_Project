@@ -1,5 +1,6 @@
 # ignore
 Create_database_engine.ipynb
+data_prep/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
