@@ -116,3 +116,18 @@ CREATE TABLE Offense_Cat_Victim_AGe_2020 (
 	 PRIMARY KEY (Offense_Category)
 	    
 );
+
+CREATE TABLE city_lat_long (
+         state VARCHAR(40) NOT NULL,	
+	 capital VARCHAR(40) NOT NULL,
+	 lat INTEGER,
+	 long INTEGER,	
+	 PRIMARY KEY (State),
+);
+
+CREATE TABLE offense_cat_type_state (
+         state VARCHAR(40) NOT NULL,	
+	 offense_category VARCHAR(40) NOT NULL,
+	 offense_type VARCHAR(40) NOT NULL,
+	 volume INTEGER,	
+	);
