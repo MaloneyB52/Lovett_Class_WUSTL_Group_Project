@@ -24,8 +24,8 @@ Description of their source data: https://crime-data-explorer.fr.cloud.gov/pages
 
 Questions they hope to answer with the data: 
 
-	1) What are the top 5 safest states in the United States regarding specific crimes?
-	2) What regions of the United States are more likely to experience specific crimes?
+	1) Which states experience persons crimes most?
+	2) Which states experience property crimes most? 
 	3) Is there a correlation between population and crime?
 	4) Is there a correlation between number of police agencies and crime? 
 	5) What is the percentage breakdown of offenders regarding gender?
