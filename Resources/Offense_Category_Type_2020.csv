@@ -1,0 +1,24 @@
+Offense_Category,Offense_Type
+Assault,Person
+Homicide,Person
+Human Trafficking,Person
+Kidnapping_Abduction,Person
+Sex,Person
+Arson,Property
+Bribery,Property
+Burglary/Breaking & Entering,Property
+Counterfeiting/Forgery,Property
+Destruction/Damage/Vandalism ,Property
+Embezzlement,Property
+Extortion/Blackmail,Property
+Fraud,Property
+Larceny/Theft,Property
+Motor Vehicle Theft,Property
+Robbery,Property
+Stolen Property,Property
+Animal Cruelty,Society
+Drug/Narcotic,Society
+Gambling,Society
+Pornography/Obscene Material,Society
+Prostitution,Society
+Weapon Law Violations,Society
