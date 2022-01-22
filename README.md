@@ -20,12 +20,12 @@ While the debate between law enforcement size and resourcing is certainly alive 
       4) Crime statistics are easily understood and lend themselves to graphical display and geographical analysis thereby allowing our team to showcase 
        various aspects of the course and the material learned
 
-Description of their source data: TBD
+Description of their source data: https://crime-data-explorer.fr.cloud.gov/pages/downloads
 
 Questions they hope to answer with the data: 
 
-	1) What are the top 5 safest states in the United States regarding specific crimes?
-	2) What regions of the United States are more likely to experience specific crimes?
+	1) Which states experience persons crimes most?
+	2) Which states experience property crimes most? 
 	3) Is there a correlation between population and crime?
 	4) Is there a correlation between number of police agencies and crime? 
 	5) What is the percentage breakdown of offenders regarding gender?
@@ -49,3 +49,6 @@ Slack channels will be uncluttered and used only for official communications rel
 
 Dashboard Blueprint:
 https://docs.google.com/presentation/d/1WP2fsga8pHQ5kwCSXEVQ7G7VRfetKjTvwkud-zFyYQE/edit?usp=sharing
+
+Presentation Draft:
+https://docs.google.com/presentation/d/1v2WLnwIapBdJtIcaj6dfLVNutxIlW0RZ19rlGLghd8A/edit?usp=sharing
