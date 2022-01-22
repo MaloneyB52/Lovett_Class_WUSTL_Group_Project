@@ -1,6 +1,20 @@
 # ignore
 Create_database_engine.ipynb
 data_prep/
+crime_analysis.ipynb
+crime_analysis_v2.ipynb
+crime_analysis_v3.ipynb
+crime_analysis_v4.ipynb
+crime_analysis_v5.ipynb
+crime_analysis_v6.ipynb
+crime_analysis_v7.ipynb
+crime_analysis_v8.ipynb
+crime_analysis_v9.ipynb
+crime_analysis_v10.ipynb
+crime_analysis_v11.ipynb
+crime_analysis_v12.ipynb
+crime_analysis_v13.ipynb
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
