@@ -52,5 +52,10 @@ def getproperty():
 def getsociety():
     return  off_type_society_df.to_json(orient="columns")
 
+
+@app.route("/model")
+def model():
+    return render_template('crime_data_analysis.html')
+
 if __name__ == "__main__":
     app.run(debug=True)
