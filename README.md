@@ -45,12 +45,11 @@ When not speaking, microphone will be muted
 Slack channels will be uncluttered and used only for official communications related to the project to ensure confusion is minimized. 
 
 
+Please see Heroku link below
+https://lovettteamwustl.herokuapp.com
+
 Dashboard Blueprint:
 https://docs.google.com/presentation/d/1WP2fsga8pHQ5kwCSXEVQ7G7VRfetKjTvwkud-zFyYQE/edit?usp=sharing
 
 Presentation Draft:
 https://docs.google.com/presentation/d/1v2WLnwIapBdJtIcaj6dfLVNutxIlW0RZ19rlGLghd8A/edit?usp=sharing
-
-
-Please see Heroku link below
-https://lovettteamwustl.herokuapp.com
