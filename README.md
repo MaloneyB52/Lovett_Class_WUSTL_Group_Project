@@ -24,8 +24,8 @@ Description of their source data: https://crime-data-explorer.fr.cloud.gov/pages
 
 Questions they hope to answer with the data: 
 
-	1) Which states experience persons crimes most?
-	2) Which states experience property crimes most? 
+	1) How often do person crimes occur in each state?
+	2) How often do property crimes occur in each state?
 	3) Is there a correlation between population and crime?
 	4) Is there a correlation between number of police agencies and crime? 
 	5) What is the percentage breakdown of offenders regarding gender?
