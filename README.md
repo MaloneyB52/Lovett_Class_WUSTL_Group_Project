@@ -26,10 +26,8 @@ Questions they hope to answer with the data:
 
 	1) How often do person crimes occur in each state?
 	2) How often do property crimes occur in each state?
-	3) Is there a correlation between population and crime?
+	3) How often do society crimes occur in each state?
 	4) Is there a correlation between number of police agencies and crime? 
-	5) What is the percentage breakdown of offenders regarding gender?
-	6) What is the percentage breakdown of victims regarding gender?
 
 
 Communication Protocols
