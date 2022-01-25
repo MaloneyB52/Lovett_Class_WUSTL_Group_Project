@@ -40,6 +40,18 @@ with engine.connect() as conn:
 def home():
     return render_template('index.html')
 
+@app.route("/map")
+def map():
+    return render_template('map.html')   
+
+@app.route("/model")
+def model():
+    return render_template('crime_data_analysis.html')   
+
+@app.route("/team")
+def team():
+    return render_template('team.html')     
+
 @app.route("/getperson")
 def getperson():
     return  off_type_person_df.to_json(orient="columns")
@@ -53,9 +65,7 @@ def getsociety():
     return  off_type_society_df.to_json(orient="columns")
 
 
-@app.route("/model")
-def model():
-    return render_template('crime_data_analysis.html')
+
 
 if __name__ == "__main__":
     app.run(debug=True)
