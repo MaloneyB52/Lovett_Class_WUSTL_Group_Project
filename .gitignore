@@ -1,7 +1,7 @@
 # ignore
 Create_database_engine.ipynb
 data_prep/
-temp/
+_temp/
 
 
 # Byte-compiled / optimized / DLL files
