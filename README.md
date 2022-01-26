@@ -6,7 +6,7 @@ Christy Nilges
 
 Joelle Ousley
 
-ichael Maloney
+Michael Maloney
 
 
 
