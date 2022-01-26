@@ -1,3 +1,13 @@
+Team Members
+
+Alex Yang
+Christy Nilges
+Joelle Ousley
+Michael Maloney
+
+
+
+
 Selected Topic:
 
 It is not uncommon for municipalities, counties, or any other form of government to modify or “right-size” its law enforcement departments. No matter the reasoning behind such right-sizing, good government requires an understanding of the data surrounding the causes and effects to a community of such decisions. To that end, we have decided to compile data to document the relationship between increases in law enforcement personnel, or conversely decreases, on the overall crime in a given community.
@@ -24,12 +34,10 @@ Description of their source data: https://crime-data-explorer.fr.cloud.gov/pages
 
 Questions they hope to answer with the data: 
 
-	1) Which states experience persons crimes most?
-	2) Which states experience property crimes most? 
-	3) Is there a correlation between population and crime?
+	1) How often do person crimes occur in each state?
+	2) How often do property crimes occur in each state?
+	3) How often do society crimes occur in each state?
 	4) Is there a correlation between number of police agencies and crime? 
-	5) What is the percentage breakdown of offenders regarding gender?
-	6) What is the percentage breakdown of victims regarding gender?
 
 
 Communication Protocols
@@ -46,6 +54,9 @@ Zoom meetings will be attended with video on, and camera operating
 When not speaking, microphone will be muted
 Slack channels will be uncluttered and used only for official communications related to the project to ensure confusion is minimized. 
 
+
+Please see Heroku link below
+https://lovettteamwustl.herokuapp.com
 
 Dashboard Blueprint:
 https://docs.google.com/presentation/d/1WP2fsga8pHQ5kwCSXEVQ7G7VRfetKjTvwkud-zFyYQE/edit?usp=sharing

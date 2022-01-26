@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>United States Crime Data Analysis</title>
+    <link rel="stylesheet" 
+        href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
+        integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" 
+        crossorigin="anonymous" />
+    <link rel="stylesheet" href="static/css/style.css">
+
+    <link rel="apple-touch-icon" sizes="180x180" href="static/icon/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="static/icon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="static/icon/favicon-16x16.png">
+    <link rel="manifest" href="static/icon/site.webmanifest">
+</head>
+
+<body class='bg-light'>
+    <nav class="navbar navbar-expand-lg">
+        <a class="navbar-brand" href="/" id="logo"><img src="/static/images/crime.jpg" alt=""
+                style="padding-left:10px;width:150px;height:100px;"></a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
+            aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <!-- <div class="collapse navbar-collapse" id="navbarNavDropdown"> -->
+        <ul class="navbar-nav ml-auto">
+            <li class="nav-item">
+                <a class="nav-link" href="/map">Show_Map</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="/model">Model</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="/team">Team</a>
+            </li>
+        </ul>
+        <!-- </div> -->
+    </nav>
+    
+    <div class='wrapper'>
+        <nav class='navbar navbar-dark bg-dark navbar-expand-lg'>
+            <a class='navbar-brand' href='https://lovettteamwustl.herokuapp.com/'>United States Crime Map</a>
+        </nav>
+        <div class='jumbotron'>
+            <h1 class='display-4'>What Raises Crime Rates?</h1>
+        </div>
+
+        <div class='container-fluid'>
+
+            <div class='row'>
+                <div class='col-md-9'>
+                    <h3>Methods</h3>
+                    <p>
+                        Crime counts in 2017 was analyzed at the county level
+                        to determine its correlation with societal factors,
+                        such as the number of law enforcement employees, population density,
+                        household income, education, unemployment rate, and poverty.
+                        <br /><br />
+                        The Lasso regressor was found to produce better accuracy than Random Forest
+                        and Gradient Boosting. The fitting coefficients of the Lasso regressor
+                        are listed below to illustrate which factors correlates with the
+                        crime rates.
+                        <br /><br />
+                        The total crime counts were broken down into two types in order
+                        to gain more insight: violent crimes and property crimes.
+
+                    </p>
+                </div>
+                <div class='col-md-9'>
+                    <h3>Regressors</h3>
+                        <img src="static/images/regressors.png" 
+                        alt="regressors using the QuantileTransformer scaler"
+                        width="900" height="300">
+                </div>
+                <div class='col-md-9'>
+                    <table class='table table-striped'>
+                        <h3>Coefficients of Lasso Regression</h3>
+                        <thead>
+                            <tr>
+                                <th>Feature</th>
+                                <th>Coefficient to violent crimes</th>
+                                <th>Coefficient to property crimes</th>
+                            </tr>
+                        </thead>
+                        <tbody></tbody>
+                    </table>
+                </div>
+                <div class='col-md-9'>
+                    <table class='table table-striped'>
+                        <h5>Data sources</h5>
+                        <ul>
+                            <li><a href="https://ucr.fbi.gov/crime-in-the-u.s/2017/crime-in-the-u.s.-2017/home">
+                                https://ucr.fbi.gov/crime-in-the-u.s/2017/crime-in-the-u.s.-2017/home
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://www.census.gov/topics/income-poverty/library/publications.2017.List_855700001.html">
+                                    https://www.census.gov/topics/income-poverty/library/publications.2017.List_855700001.html
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://www.ers.usda.gov/data-products/county-level-data-sets/">
+                                    https://www.ers.usda.gov/data-products/county-level-data-sets/
+                                </a>
+                            </li>
+                        </ul>
+                        
+                    </table>
+                </div>
+            </div>
+        </div>
+
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/4.11.0/d3.js" charset='utf-8'></script>
+        <!-- allow the library to listen to our code -->
+        <script src="static/js/ml_data.js"></script>
+        <!--make sure data.js is loaded first-->
+        <script src="static/js/ml_app.js"></script>
+    </div>
+</body>
+
+</html>
