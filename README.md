@@ -1,10 +1,9 @@
-Team Members for this Assignment
+Team Members
 
 Alex Yang
 Christy Nilges
 Joelle Ousley
 Michael Maloney
-
 
 
 
