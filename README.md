@@ -1,3 +1,13 @@
+Team Members
+
+Alex Yang
+Christy Nilges
+Joelle Ousley
+Michael Maloney
+
+
+
+
 Selected Topic:
 
 It is not uncommon for municipalities, counties, or any other form of government to modify or “right-size” its law enforcement departments. No matter the reasoning behind such right-sizing, good government requires an understanding of the data surrounding the causes and effects to a community of such decisions. To that end, we have decided to compile data to document the relationship between increases in law enforcement personnel, or conversely decreases, on the overall crime in a given community.
